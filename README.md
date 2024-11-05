@@ -41,7 +41,7 @@
 
 ###
 
-<p align="center">🎧 Current Mood 🎧</p>
+<p align="center">🎧 <strong>Current Mood</strong> 🎧</p>
 
 ###
 
@@ -51,6 +51,6 @@
 
 ###
 
-<p align="center">You catch me on [[Email]] | [[Linkedin]]</p>
+<p align="center">You can catch me on <a href="mailto:contatoehls@outlook.com)">E-mail</a> | <a href="https://www.linkedin.com/in/itsduzao/">Linkedin</a></p>
 
 ###
