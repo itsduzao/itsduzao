@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎯 I'm currently looking for an internship<br>📚 I'm currently undergraduate in software engineering<br>🌱 I’m currently learning React and Typescript<br>🙋🏽‍♂️ I'm a curious, hard worker and a good teammate<br>⚡ Fun fact: Despite being known as someone funny, I often go for drama or reflective pieces.</p>
+<p align="left">🎯 I'm currently looking for an internship<br>📚 I'm currently undergraduate in software engineering<br>🌱 I’m currently learning React, Typescript and GCP<br>🙋🏽‍♂️ I'm a curious, hard worker and a good teammate<br>⚡ Fun fact: Despite being known as someone funny, I often go for drama or reflective pieces.</p>
 
 ###
 
