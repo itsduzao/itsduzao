@@ -51,6 +51,6 @@
 
 ###
 
-<p align="center">You can catch me on <a href="mailto:contatoehls@outlook.com)">E-mail</a> | <a href="https://www.linkedin.com/in/itsduzao/">Linkedin</a></p>
+<p align="center">You can catch me on <a href="mailto:contatoehls@outlook.com">E-mail</a> | <a href="https://www.linkedin.com/in/itsduzao/">Linkedin</a></p>
 
 ###
